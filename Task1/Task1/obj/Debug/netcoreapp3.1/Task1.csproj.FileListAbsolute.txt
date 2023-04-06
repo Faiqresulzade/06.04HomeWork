@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\ag201\homeWork\07.04HomeWork\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+C:\Users\Honor\Desktop\ag201\homeWork\07.04HomeWork\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Users\Honor\Desktop\ag201\homeWork\07.04HomeWork\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+C:\Users\Honor\Desktop\ag201\homeWork\07.04HomeWork\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\Users\Honor\Desktop\ag201\homeWork\07.04HomeWork\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Users\Honor\Desktop\ag201\homeWork\07.04HomeWork\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\Honor\Desktop\ag201\homeWork\07.04HomeWork\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\ag201\homeWork\07.04HomeWork\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\ag201\homeWork\07.04HomeWork\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\ag201\homeWork\07.04HomeWork\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Users\Honor\Desktop\ag201\homeWork\07.04HomeWork\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\ag201\homeWork\07.04HomeWork\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Users\Honor\Desktop\ag201\homeWork\07.04HomeWork\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\Honor\Desktop\ag201\homeWork\07.04HomeWork\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
