@@ -9,6 +9,6 @@ namespace Task2.Services.Abstract
     {
         void Add(Gamer gamer);
         void Remove(Gamer gamer);
-        void Details(Gamer gamer);
+        void Details();
     }
 }

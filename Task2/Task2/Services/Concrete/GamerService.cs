@@ -14,7 +14,7 @@ namespace Task2.Services.Concrete
             gamers.Add(gamer);
         }
 
-        public void Details(Gamer gamer)
+        public void Details()
         {
             Console.WriteLine(gamers);
         }
